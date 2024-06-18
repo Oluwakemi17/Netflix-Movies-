@@ -37,7 +37,7 @@ netflix_movies.head()
 short_movies = netflix_movies[netflix_movies['duration'] < 60]
 short_movies.head()
 ```
-![](net)
+![](short_movies.head.jpg)
 
 ```python
 # Create an empty list
@@ -78,4 +78,4 @@ plt.show()
 
 ## Interpretation and Insight
 
-
+The scatter plot shows Movie duration by Year by of Release. Majority of the markers of the scatter plot are clustered above 60 minutes. This indicates that Netflix movies are not getting shorter as assumed.
