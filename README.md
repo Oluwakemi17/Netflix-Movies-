@@ -1,6 +1,6 @@
 # Investigating Netflix Movies in Python
 
-![](Neflix_Logo.jpg)
+![](Netflix.jpg)
 
 ```python
 # Import pandas and matplotlib
@@ -24,7 +24,7 @@ netflix_df
 netflix_subset = netflix_df[netflix_df['type'] == 'Movie']
 netflix_subset.head()
 ```
-![](netflix_subset.head.jpg)
+![](netflix__subset.head.jpg)
 
 ```python
 # Drop unwanted columns. Delete columns with df.drop()
