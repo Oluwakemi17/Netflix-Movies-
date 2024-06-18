@@ -78,4 +78,6 @@ plt.show()
 
 ## Interpretation and Insight
 
-The scatter plot shows Movie duration by Year by of Release. Majority of the markers of the scatter plot are clustered above 60 minutes. This indicates that Netflix movies are not getting shorter as assumed.
+The scatter plot shows Movie duration by Year by of Release. Majority of the markers of the scatter plot are clustered above 60 minutes. This indicates that Netflix movies are not getting shorter as assumed. 
+
+You can interact with the dataset and code ![](here)()
